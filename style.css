@@ -3,13 +3,14 @@ html,body{
     margin:0;
     padding:0;
     text-align:center;
+    background-repeat: repeat-y;
     
 }
 .panel{
    height:100% 
 }
 #panel-1{
-     background: rgb(12,110,50);
+    background: rgb(12,110,50);
     background: linear-gradient(90deg, rgba(12,110,50,1) 0%, rgba(142,11,11,1) 100%);;
     height:100%;
 }
@@ -51,7 +52,7 @@ h1{
     margin:0;
     padding: 15px;
     font-family: 'Press Start 2P', sans-serif;
-    font-size:54px;
+    font-size:34px;
 }
 h2{
     margin:0;
